@@ -6,7 +6,7 @@ Nick Trefethen at the age of 14: "I cannot bear the idea of going through my lif
 
 This book lists and illustrates tools that makes you become effective with almost no effort.
 
-# Contents
+# Structure
 
 There will be two volumes:
 
