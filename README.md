@@ -6,7 +6,9 @@ Nick Trefethen at the age of 14: "I cannot bear the idea of going through my lif
 
 This book lists and illustrates tools that makes you become effective with almost no effort.
 
-There will be two chapters:
+# Contents
+
+There will be two volumes:
 
 ## 1. Necessity
 0. git aka. version control
@@ -23,3 +25,11 @@ There will be two chapters:
 0. google scholar and orcid
 0. your website
 
+# Contents
+Every chapter will have
+ - an introduction on the topic
+ - example usage
+ - to-the-point cheat sheets
+ - up-to-date links for further reading
+ - subjective opinions by the author
+ - alternatives
